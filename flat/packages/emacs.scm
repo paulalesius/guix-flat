@@ -116,7 +116,7 @@
 
 (define-public emacs-native-comp
   (emacs-from-git
-   (emacs-with-native-comp emacs-next gcc-11 'full-aot)
+   (emacs-with-native-comp emacs-next gcc-12 'full-aot)
    #:pkg-name "emacs-native-comp"
    #:pkg-version "28.1.90"
    #:pkg-revision "202"
@@ -134,3 +134,4 @@
    #:git-repo "https://github.com/flatwhatson/emacs.git"
    #:git-commit "03fe25871679f1904a28eb1a704880200a9ec570"
    #:checksum "14z9v2ragg6nhvswv68q6yklcpzd9r8dw1kpd6zjsl70nkv5x0x5"))
+
