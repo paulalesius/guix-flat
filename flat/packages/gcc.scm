@@ -72,4 +72,3 @@
 
 (define-public libgccjit-12
   (libgccjit-for-gcc gcc-12))
-
