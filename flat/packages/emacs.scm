@@ -122,7 +122,7 @@
    #:pkg-revision "203"
    ;#:git-repo "https://git.savannah.gnu.org/git/emacs.git"
    #:git-repo "https://github.com/emacs-mirror/emacs.git"
-   #:git-commit "82bcd443782738fd163b282497de5501d03f175a"
+   #:git-commit "d111b5b6512e1c8e932572906e2f516832e6c408"
    #:checksum "1kbvrixyan67lm0m9kzqbqcr3ix6rs22lp9k7bp8j2nkc41x3pbj"))
 
 (define-public emacs-pgtk-native-comp
@@ -134,3 +134,4 @@
    #:git-repo "https://github.com/flatwhatson/emacs.git"
    #:git-commit "031a3a803b1658c2ea2ccda76d46a99dc810eec2"
    #:checksum "1vhycsbvmfzihk84xjkcm7psyhw0ir64p4vh0hfmhxvw1xy0sbqs"))
+
